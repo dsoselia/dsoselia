@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 My name is Davit Soselia
+## I am CS grad student
+
+I have been working on ML and related projects for the past 5 years, starting primarily with applied CV, and occasionally working with NLP and speech processing. I am originally from Georgia 🇬🇪 Spent past 4 years in Sweden 🇸🇪 and recently moved to Maryland to pursue studies 🎓 at University of Maryland, College Park.
+
+* 🌍  I'm based in College Park, MD, US.
+* ✉️  You can contact me at [dsoselia at umd dot edu](mailto:dsoselia at umd dot edu)
+* 🤝  I'm open to collaborating on any interesting DL projects, but currently interested in code generation in particular.
+
+
 
 <!--
 **dsoselia/dsoselia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
