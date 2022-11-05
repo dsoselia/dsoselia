@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Davit Soselia
-#### I am CS grad student
+#### I am a CS grad student at UMD
 
 I have been working on ML and related projects for the past 5 years, starting primarily with applied CV, and occasionally working with NLP and speech processing. I am originally from Georgia 🇬🇪 Spent past 4 years in Sweden 🇸🇪 and recently moved to Maryland to pursue studies 🎓 at University of Maryland, College Park.
 
